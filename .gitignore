@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# SQLite db
+*.db
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+package-lock.json
+
+# Vite
+dist/
+
+# Local env files
+.env
+.env.*.local
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.log
